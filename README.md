@@ -7,6 +7,7 @@ Authors:
 * Shubham Goswami
 * Sidharth
 * Jaya Bhatt
+* Anubhav
 
 # Table of contents
 ## 1. Precipitation
